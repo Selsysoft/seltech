@@ -13,5 +13,3 @@ Images from the application...
 ![Seltech](https://user-images.githubusercontent.com/67559667/98144870-a59af880-1edb-11eb-88a0-08cfd9e55c9d.png)
 
 ![Seltech](https://user-images.githubusercontent.com/67559667/98146389-94062080-1edc-11eb-9060-0ceda49def45.jpg)
-
-![f7ab0810bd53f886edca4af85967cb8e](https://user-images.githubusercontent.com/67559667/110820657-5a855d80-82a0-11eb-9aed-ff5accdae7bc.jpg)
